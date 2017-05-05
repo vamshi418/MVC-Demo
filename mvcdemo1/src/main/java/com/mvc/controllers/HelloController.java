@@ -36,7 +36,7 @@ public class HelloController
 	}
 	
 	
-	@RequestMapping("/c")
+	@RequestMapping("/personform")
 	public String personForm()
 	{
 		return "personform";

@@ -7,7 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-THIS IS MY WELCOME PAGE
-${message }
+STUDENT DETAILS<br>
+STUDENT NAME:${student.name }<br>
+STUDENT DEPARTMENT:${student.department }<br>
+MARK 1:${student.mark1 }<br>
+MARK 2:${student.mark2 }<br>
+TOTAL :${student.total }
+
 </body>
 </html>
